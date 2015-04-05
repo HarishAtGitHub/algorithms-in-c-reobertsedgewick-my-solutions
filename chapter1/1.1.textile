@@ -1,1 +1,28 @@
 h3. 1.1.. Give the output that a connectivity algorithm should produce when given the input 0-2, 1-4, 2-5, 3-6, 0-4, 6-0, and 1-3.
+
+0-2 
+1-4  - 1 & 4 are are searched in the sets above and none are found
+2-5  - 2 is searched in the sets above . 2 is found , so (0-2) U (2-5) = {0,2,5}
+
+so now the sets are
+{0,2,5}
+{1,4}
+i/p = (3,6) -  1 & 4 are are searched in the sets above and none are found . so retained as such {3,6}
+i/p = (0,4) -  0 is found in set {0,2,5} and 4 is found in set {1,4}..So {0,4} U {0,2,5} U {1,4} = {1,4,0,2,5}
+
+so now the sets are
+{1,4,0,2,5}
+{3,6}
+ip = (6-0) - 0 and 6 both are found so {1,4,0,2,5} U {3,6} U {0,6} = {1,4,0,2,5,6,3}
+
+Answer : {1,4,0,2,5,6,3}
+
+How to check our answer ?
+the answer suggests that from any node we can reach any other node . make a picture of above and see if it is true.
+
+Note : In a 2d set  we cannot represent all the connections exactly .. so in diagram
+
+
+
+
+

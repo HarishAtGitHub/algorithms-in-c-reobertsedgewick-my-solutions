@@ -72,18 +72,3 @@ Note : here the link information is retained . but the redundant elements are gi
 h4. Applications
 
 Find the number of clusters given information about each and every link separately .
-
-
-Note : If we use Quick find then the answer is the number of distinct intergers in array will be the number of sets
-
-| index  | value                       |
-| 1      | 1                           |
-| 1      | 1                           |
-| 1      | 1                           |
-| 1      | 1                           |
-| 1      | 1                           |
-| 1      | 1                           |
-| 1      | 1                           |
-| 1      | 1                           |
-| 1      | 1                           |
-| 1      | 1                           |

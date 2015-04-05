@@ -21,7 +21,9 @@ How to check our answer ?
 the answer suggests that from any node we can reach any other node . make a picture of above and see if it is true.
 
 Note : In a 2d set  we cannot represent all the connections exactly .. so in diagram
+http://postimg.org/image/n518uqj7r/
 
+so this shows that all are connected. so our answer should be correct.
 
 
 

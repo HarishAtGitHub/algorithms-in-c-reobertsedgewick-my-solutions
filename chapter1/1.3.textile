@@ -28,12 +28,13 @@ Result : Max of the keys in the map is the value of the number of sets remaining
 
 
 </pre>
-h4. Where did we use the union find ?
-  
+
+h4. Where did we use the *union find* ? the question asks for it right ?
+
 Yes we did . 
 We did do *FIND* by searching for the elements group ID . and obtained A,B in step 3 .
 We did do *UNION* inside the if else block in step 3 .
-It looks different as we just managed with a map .
+It does not appear obvious as we just managed with a map .
 
 h4. Applications
 

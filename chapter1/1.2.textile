@@ -37,3 +37,6 @@ so it means all belong to the same group so we can go from any node to any node 
 
 
 
+h3. Application
+
+To find all the possible routes and then from there find the route which incurs minimum cost .

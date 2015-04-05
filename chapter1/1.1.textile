@@ -1,5 +1,7 @@
 h3. 1.1.. Give the output that a connectivity algorithm should produce when given the input 0-2, 1-4, 2-5, 3-6, 0-4, 6-0, and 1-3.
 
+h4. using the idea of Union Find :
+
 0-2 
 1-4  - 1 & 4 are are searched in the sets above and none are found
 2-5  - 2 is searched in the sets above . 2 is found , so (0-2) U (2-5) = {0,2,5}
@@ -24,6 +26,16 @@ Note : In a 2d set  we cannot represent all the connections exactly .. so in dia
 http://postimg.org/image/n518uqj7r/
 
 so this shows that all are connected. so our answer should be correct.
+
+h4. using the idea or problem statement in page 7 (just like in figure 1.1)
+
+0-2  0-2
+1-4  1-4
+2-5  2-5
+3-6  3-6
+0-4  0-4
+6-0  6-0
+1-3  1-3 
 
 
 h4. Applications :

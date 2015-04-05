@@ -9,7 +9,7 @@ it is
 or 
 7-3-4-8-0
 
-other roots will result in dead end of revisiting nodes .
+other roots will result in dead end .It question allows for revisiting nodes then we can come up with some other routes.
 
 To go from program initial step at least to find how many clusters so that we can right away say that "no path exists" if nodes are in different clusters
 following the procedure as in <a href="https://github.com/HarishAtGitHub/algorithms-in-c-reobertsedgewick-my-solutions/blob/master/chapter1/1.3.textile">1.3textile</a>.

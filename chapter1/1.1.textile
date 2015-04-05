@@ -26,5 +26,8 @@ http://postimg.org/image/n518uqj7r/
 so this shows that all are connected. so our answer should be correct.
 
 
+h4. Applications :
+
+Finding the clusters when given  the information about each link separately .
 
 

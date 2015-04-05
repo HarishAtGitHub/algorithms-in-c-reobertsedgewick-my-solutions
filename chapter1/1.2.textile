@@ -1,0 +1,1 @@
+h3. 1.2.. List all the different ways to connect two different objects for the example in Figure 1.1
